@@ -63,7 +63,8 @@ I recently graduated with a **Bac+2 diploma in Web Development** from the *Cité
 - 🏨 **Hotel Reservation Management System** – PHP, MySQL, Bootstrap  
 - 🍽 **Restaurant Management System** – Laravel, MySQL, Bootstrap, JavaScript  
 - 📝 **Blog Engine (Mini Hackathon Project)** – MERN Stack (MongoDB, Express.js, React.js, Node.js)  
-- 🛒 **Dynamic Website for CMC Magasin Manager** – MERN Stack  
+- 🛒 **Dynamic Website for CMC Magasin Manager** – MERN Stack
+- 🛒 **Dynamic Website - SMART HABIT TRACKER** – MERN Stack
 - ✅ **To-Do Redux App** – React.js & Redux (State Management)  
 - 💻 **Personal Portfolio** – React.js  
 
